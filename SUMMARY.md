@@ -1,7 +1,7 @@
 # Table of contents
 
 * [江西理工大学智科自救指南](README.md)
-* [Quick Start](quick-start.md)
+* [智科专业介绍](introduce.md)
 
 ## 如何自救 <a href="#how" id="how"></a>
 
