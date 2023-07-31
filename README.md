@@ -4,7 +4,7 @@
 
 &#x20;   这是一份为江西理工大学智能科学与技术专业的同学准备的自救指南，希望在这份指南公开之前，这个专业仍然存在。
 
-&#x20;   本项目参考了国外网友的项目:\[Teach yourself Computer Science]\([https://teachyourselfcs.com](https://teachyourselfcs.com))，以及北大学长的\[CS自学指南]\([https://csdiy.wiki](https://csdiy.wiki))。不管看到这份指南的你是否是这个专业，如果对你们有一点点帮助，那么这个项目也就有了价值。（如果你有什么好的想法和建议，欢迎邮件：secant\_acm@163.com)
+&#x20;   本项目参考了国外网友的项目:[Teach yourself Computer Science](https://teachyourselfcs.com)，以及北大学长的[CS自学指南](https://csdiy.wiki)。不管看到这份指南的你是否是这个专业，如果对你们有一点点帮助，那么这个项目也就有了价值。（如果你有什么好的想法和建议，欢迎邮件：secant\_acm@163.com)
 
 ## 这个项目的初衷
 
