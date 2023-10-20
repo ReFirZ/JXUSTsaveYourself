@@ -16,7 +16,7 @@
   * [线性代数](how/linearAlgebra.md)
   * [复变函数与积分变换](how/complexNumber.md)
 * [计算机篇](how/computerScience/README.md)
-  * [SICP](how/computerScience/sicp.md)
   * [数据结构与算法](how/computerScience/datastructureAndAlgorithm.md)
+  * [SICP](how/computerScience/sicp.md)
 * [控制篇](how/control.md)
 * [机器学习篇](how/machineLearning.md)
