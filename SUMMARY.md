@@ -22,3 +22,4 @@
   * [SICP](how/computersScience/computerScience/sicp.md)
 * [控制篇](how/control.md)
 * [机器学习篇](how/machineLearning.md)
+* [后记](how/epilogue.md)
